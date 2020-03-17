@@ -1,0 +1,21 @@
+.App {
+  padding: 50px;
+  text-align: center;
+}
+
+.fakeForm { margin-bottom: 25px; }
+
+.map {
+  display: flex;
+}
+
+.row {
+  display: flex;
+  flex-direction: column;
+  min-width: 20%;
+}
+
+.square {
+  height: 50px;
+  border: 1px solid #3d3d3d;
+}
